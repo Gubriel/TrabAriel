@@ -1,3 +1,2 @@
 # TrabAriel
-Entrega do Trabalho da Faculdade
-
+Reposiório de entrega do Trabalho da Faculdade
